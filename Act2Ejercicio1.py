@@ -31,4 +31,5 @@ print("La suma de los elementos del arregloDos : ", arregloDos.sum())
 print("El promedio de sus elementos del arregloDos : ", arregloDos.mean())
 
 print("fin")
+print("fin2")
 
