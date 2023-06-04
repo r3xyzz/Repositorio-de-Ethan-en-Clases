@@ -13,6 +13,7 @@ def divicion(num1, num2):
     else:
         return "Error compañero, no se puede dividir entre cero."
 
+prinr("Bienvenido a la Calculadora R3X-CORPORATION")
 print("--------------------------------------------")
 num1 = float(input("Ingrese el primer numero: "))
 num2 = float(input("Ingrese el segundo numero: "))
