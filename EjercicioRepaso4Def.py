@@ -1,10 +1,12 @@
 import funciones_DEF as fn
 op = 0
 while op != 4:
+    print("===================")
     print("1. Calcular IVA")
     print("2. Descuento")
     print("3. IMC")
     print("4. Salir")
+    print("===================")
     op = int(input("Ingrese su opción: "))
 
     if op == 1:
